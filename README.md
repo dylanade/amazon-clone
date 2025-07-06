@@ -14,10 +14,6 @@ An Amazon e-commerce application built using MySQL and Java.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/39b0f60f-d68e-4e10-9858-7e844fd100e4" width="500" />
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/4f7397dc-b1ba-4a64-8c5a-b3a148c2882f" width="1000" />
 </p>
 
